@@ -17,5 +17,3 @@ while count >0:
     else:
        count=count-1
        print("密碼錯誤,還有",count,"次機會")
-       if count==0:
-           break
